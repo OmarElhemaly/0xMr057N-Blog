@@ -1,0 +1,23 @@
+title: "0xMr057N | Security Research"
+description: "Breaking Things. Understanding Why. Making Them Secure."
+url: "https://omarelhemaly.github.io"
+baseurl: "/0xMr057N-Blog"
+author: "0xMr057N"
+email: "omar2elhemaly7@gmail.com"
+twitter_username: ""
+github_username: "OmarElhemaly"
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Africa/Cairo
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
