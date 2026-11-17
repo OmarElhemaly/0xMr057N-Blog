@@ -11,5 +11,5 @@ permalink: /about/
 <h2>What you'll find here</h2>
 <ul><li>Web application security and penetration-testing notes.</li><li>Writeups from legal labs and intentionally vulnerable environments.</li><li>Research experiments and technical deep dives.</li><li>Scripts and tools built for authorized testing.</li></ul>
 <h2>Connect</h2>
-<p><a href="https://github.com/OmarElhemaly">GitHub</a> · <a href="https://www.linkedin.com/in/omarelhemal">LinkedIn</a> · <a href="mailto:omar2elhemaly7@gmail.com">Email</a></p>
+<p><a href="https://github.com/OmarElhemaly">GitHub</a> · <a href="https://www.linkedin.com/in/omarelhemaly">LinkedIn</a> · <a href="mailto:omar2elhemaly7@gmail.com">Email</a></p>
 </div>
